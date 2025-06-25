@@ -19,33 +19,33 @@ These are personal notes on data structures and algorithms.
 - Binary Search
 
 ## Linked Lists
-### Intro
-### Memory Usage
-### List Types
-### Operations
+- Intro
+- Memory Usage
+- List Types
+- Operations
 
 ## Stacks and Queues
-### Intro
-### Stacks
-### Queues
+- Intro
+- Stacks
+- Queues
 
 ## Hash Tables
-### Intro
-### Hash Sets
-### Hash Maps
+- Intro
+- Hash Sets
+- Hash Maps
 
 ## Trees
-### Intro
-### Binary Trees
-### Pre-order Traversal
-### In-order Traversal
-### Post-order Traversal
-### Array Implementation
-### Binary Search Trees
-### AVL Trees
+- Intro
+- Binary Trees
+- Pre-order Traversal
+- In-order Traversal
+- Post-order Traversal
+- Array Implementation
+- Binary Search Trees
+- AVL Trees
 
 ## Graphs
-### Intro
+- Intro
 
 
 
