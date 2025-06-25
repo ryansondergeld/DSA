@@ -1,4 +1,5 @@
 # Data Structures and Algorithms
+These are personal notes on data structures and algorithms.
 
 ### [Introduction](01-Introduction/Readme.md)
 - Data Structure
