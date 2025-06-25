@@ -1,21 +1,21 @@
 # Data Structures and Algorithms
 
-## Introduction
-### Data Structure
-### Algorithm
-### Terminology
+### [Introduction](01-Introduction/Readme.md)
+- Data Structure
+- Algorithm
+- Terminology
 
-## Arrays
-### Intro
-### Bubble Sort
-### Selection Sort
-### Insertion Sort
-### Quick Sort
-### Counting Sort
-### Radix Sort
-### Merge Sort
-### Linear Search
-### Binary Search
+### [Arrays](02-Arrays/Readme.md)
+- Intro
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Counting Sort
+- Radix Sort
+- Merge Sort
+- Linear Search
+- Binary Search
 
 ## Linked Lists
 ### Intro
